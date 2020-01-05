@@ -1,4 +1,4 @@
-# ElectronicallyDoorOpenner
+# ElectronicallyDoorOpenner[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/MaryamSaeedmehr/ElectronicallyDoorOpenner)
 
 A simple Electronically Door Opener
 
@@ -19,7 +19,7 @@ For implementing this code yourself, You Need to install below applications :
 
 ## Step1 : Create the C code in Atmel Studio
 
-Create a new project in the atmel studio and copy all files in the <a href="https://github.com/SajedeNick/Openner/blob/master/Openner.c">`/Openner.c`</a> file into your new project folder .
+Create a new project in the atmel studio and copy all files in the <a href="https://github.com/MaryamSaeedmehr/ElectronicallyDoorOpenner/blob/master/Openner.c">`/Openner.c`</a> file into your new project folder .
 
 
 ## Step2 : Build your project
@@ -46,9 +46,9 @@ To ptogram your microcontroler in the proteus , just double click on it and choo
 
 
 ## **Files**
-- <a href="https://github.com/SajedeNick/Openner/blob/master/Openner.c">`/Openner.c`</a> : This is the main file
-- <a href="https://github.com/SajedeNick/Openner/blob/master/door.pdsprj">`/door.pdsprj`</a> : Simulation file using proteus
-- <a href="https://github.com/SajedeNick/Openner/blob/master/LICENSE">`/LICENSE`</a> : The license of this project
+- <a href="https://github.com/MaryamSaeedmehr/ElectronicallyDoorOpenner/blob/master/Openner.c">`/Openner.c`</a> : This is the main file
+- <a href="https://github.com/MaryamSaeedmehr/ElectronicallyDoorOpenner/blob/master/door.pdsprj">`/door.pdsprj`</a> : Simulation file using proteus
+- <a href="https://github.com/MaryamSaeedmehr/ElectronicallyDoorOpenner/blob/master/LICENSE">`/LICENSE`</a> : The license of this project
 
 
 
@@ -56,8 +56,8 @@ To ptogram your microcontroler in the proteus , just double click on it and choo
 
 Reach out to me at one of the following places!
 
-- Telegram at <a href="https://t.me/sajede_nick" target="_blank">@sajede_nick</a>
-- Gmail at <a href="mailto:sajede.nicknadaf78@gmail.com" target="_blank">sajede.nicknadaf78@gmail.com</a>
+- Telegram at <a href="https://t.me/BitterOcean" target="_blank">@BitterOcean</a>
+- Gmail at <a href="mailto:maryamsaeedmehr@gmail.com" target="_blank">maryamsaeedmehr@gmail.com</a>
 
 ## **License**
 
